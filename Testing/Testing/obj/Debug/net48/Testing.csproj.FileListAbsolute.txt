@@ -1,7 +1,0 @@
-C:\repos\Testing\Testing\obj\Debug\net48\Testing.csprojAssemblyReference.cache
-C:\repos\Testing\Testing\obj\Debug\net48\Testing.exe.config
-C:\repos\Testing\Testing\obj\Debug\net48\Testing.AssemblyInfoInputs.cache
-C:\repos\Testing\Testing\obj\Debug\net48\Testing.AssemblyInfo.cs
-C:\repos\Testing\Testing\obj\Debug\net48\Testing.csproj.AssemblyReference.cache
-C:\repos\Testing\Testing\obj\Debug\net48\Testing.GeneratedMSBuildEditorConfig.editorconfig
-C:\repos\Testing\Testing\obj\Debug\net48\Testing.csproj.CoreCompileInputs.cache

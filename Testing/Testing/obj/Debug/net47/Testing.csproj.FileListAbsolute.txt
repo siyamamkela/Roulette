@@ -1,4 +1,0 @@
-C:\repos\Testing\Testing\obj\Debug\net47\Testing.csprojAssemblyReference.cache
-C:\repos\Testing\Testing\obj\Debug\net47\Testing.exe.config
-C:\repos\Testing\Testing\obj\Debug\net47\Testing.AssemblyInfoInputs.cache
-C:\repos\Testing\Testing\obj\Debug\net47\Testing.AssemblyInfo.cs
